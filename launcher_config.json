@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Bazirots/Bayaa-OTS/releases/download/v1.0.0/Bayaa1405v1.zip",
+	"newClientUrl" : "https://github.com/Bazirots/Bayaa-OTS/releases/download/v1.0.0/tibia1405.zip",
 	"clientExecutable": "client.exe"
 }
