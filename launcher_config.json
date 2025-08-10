@@ -9,21 +9,21 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "14.05 v1.0.4",
+	"clientVersion": "1.0.0",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
-			"name": "assets"
+			"name": "data"
 		},
 		{
-			"name": "storeimages"
+			"name": "mods"
 		},
 		{
-			"name": "bin"
+			"name": "modules"
 		}
 	],
-	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Bazirots/Bayaa-OTS/releases/download/v1.0.4/tibia1405.v1.0.4.zip",
-	"clientExecutable": "client.exe"
+	"clientFolder": "Bayaa",
+	"newClientUrl" : "https://github.com/Bazirots/Bayaa-OTS/releases/download/1.0.0/Bayaa.zip",
+	"clientExecutable": "otclient_gl_x64.exe"
 }
