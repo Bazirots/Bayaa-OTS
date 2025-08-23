@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "1.0.8",
+	"clientVersion": "1.0.9",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Bayaa",
-	"newClientUrl" : "https://github.com/Bazirots/Bayaa-OTS/releases/download/1.0.8/Bayaa.1.0.8.zip",
+	"newClientUrl" : "https://github.com/Bazirots/Bayaa-OTS/releases/download/1.0.9/Bayaa.1.0.9.zip",
 	"clientExecutable": "otclient_gl_x64.exe"
 }
