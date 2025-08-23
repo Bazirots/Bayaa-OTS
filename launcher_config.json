@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Bayaa",
-	"newClientUrl" : "hhttps://github.com/Bazirots/Bayaa-OTS/releases/download/1.0.8/Bayaa.1.0.8.zip",
+	"newClientUrl" : "https://github.com/Bazirots/Bayaa-OTS/releases/download/1.0.8/Bayaa.1.0.8.zip",
 	"clientExecutable": "otclient_gl_x64.exe"
 }
